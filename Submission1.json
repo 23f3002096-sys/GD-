@@ -1,13 +1,8 @@
-Gradient Descent × Ukiyo-e
-Why this scores high: Hokusai's diagonal compositions + a figure descending a mountain = structurally perfect. The tradition is unmistakable and the concept is visually embedded.
-Ideogram Prompt:
-Katsushika Hokusai ukiyo-e woodblock print style. A lone 
-traveler descends a steep mountain path through layered mist, 
-each footstep carefully placed on the slope below. Multiple 
-valleys visible in the distance at different depths. Flat 
-unmodulated areas of indigo, ochre, and ivory. Bold black 
-outlines. Visible woodgrain texture in the sky. Strong 
-diagonal composition from top-right to bottom-left. Mount 
-Fuji visible in far background. Edo period Japanese aesthetic, 
-1830s. No text, no labels, no photographs, no shading gradients.
-Negative prompt: photographic shading, 3D rendering, Western perspective, text, labels, gradients, modern elements, anime
+{
+  "prompt": "Katsushika Hokusai ukiyo-e woodblock print style. A lone traveler descends a steep mountain path through layered mist, each footstep carefully placed on the slope below. Multiple valleys visible in the distance at different depths. Flat unmodulated areas of indigo, ochre, and ivory. Bold black outlines. Visible woodgrain texture in the sky. Strong diagonal composition from top-right to bottom-left. Mount Fuji visible in far background. Edo period Japanese aesthetic, 1830s. No text, no labels, no photographs, no shading gradients. Negative prompt: photographic shading, 3D rendering, Western perspective, text, labels, gradients, modern elements, anime",
+  "model": "Ideogram 2",
+  "concept": "gradient descent",
+  "tradition_name": "Japanese Ukiyo-e woodblock prints",
+  "tradition_period": "1603-1868, specifically 1830s Hokusai period",
+  "tradition_approach": "Targeted Hokusai diagonal mountain compositions, flat unmodulated color areas in indigo and ochre, bold black outlines, visible woodgrain texture in sky, and stark figure-ground contrast without Western perspective or photographic shading."
+}
